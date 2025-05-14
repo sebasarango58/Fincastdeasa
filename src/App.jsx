@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import Autentication from './views/Autentication'
-import Register from './views/Autenticationutentication'
+import Autentication from './views/Autentication/autentication'
+import Register from './views/Autentication/Register'
 
 function App() {
   const [count, setCount] = useState(0)
